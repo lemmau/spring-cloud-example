@@ -1,1 +1,1 @@
-# spring-cloud-example
+# resolucion ejercicio clase 6
