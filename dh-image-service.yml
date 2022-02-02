@@ -1,4 +1,4 @@
 server:
-  port: ${PORT:8761}
+  port: ${PORT:8083}
 
 fire: https://images.unsplash.com/photo-1470549584009-d347338fc0ff?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTAzOTR8MHwxfHNlYXJjaHwxfHxmaXJlfGVufDB8MXx8fDE2NDM3NTc4NDY&ixlib=rb-1.2.1&q=85
